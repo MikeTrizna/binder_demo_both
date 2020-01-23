@@ -9,5 +9,6 @@ dependencies:
   - r-readr
   - r-ggplot2
   - r-plotly
+  - r-irkernel
 prefix: /Users/triznam/miniconda3/envs/binder_demo_both
 
