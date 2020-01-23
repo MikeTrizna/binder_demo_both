@@ -1,13 +1,13 @@
 name: binder_demo_both
 channels:
-  - defaults
-  - plotly
   - conda-forge
 dependencies:
   - notebook
   - pandas
   - plotly_express
-  - r-essentials
+  - r-dplyr
+  - r-readr
+  - r-ggplot2
   - r-plotly
 prefix: /Users/triznam/miniconda3/envs/binder_demo_both
 
